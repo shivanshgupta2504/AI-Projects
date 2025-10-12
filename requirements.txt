@@ -1,0 +1,15 @@
+python-dotenv
+streamlit
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-anthropic
+chromadb
+langchain-chroma
+docx2txt
+pypdf
+bs4
+ipykernel
+pypdf2
+faiss-cpu
