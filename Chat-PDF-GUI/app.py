@@ -20,6 +20,8 @@ def main():
     
     This is my question:
     {query}
+    
+    If you don't have context for the question just say "No Context, can't answer the question."
     """
 
     # Upload the file
