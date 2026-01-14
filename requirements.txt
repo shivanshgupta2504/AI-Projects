@@ -13,3 +13,13 @@ bs4
 ipykernel
 pypdf2
 faiss-cpu
+tiktoken
+langchainhub
+langgraph
+tavily-python
+black
+isort
+pytest
+langchain-tavily==0.1.5
+langchain_aws
+langchain_google_genai
