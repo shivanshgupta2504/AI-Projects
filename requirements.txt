@@ -13,3 +13,12 @@ bs4
 ipykernel
 pypdf2
 faiss-cpu
+torch
+transformers
+datasets
+accelerate
+trl
+fastapi[all]
+sqlalchemy
+uvicorn
+psycopg2-binary
