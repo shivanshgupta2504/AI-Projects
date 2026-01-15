@@ -2,3 +2,6 @@
 /ai-projects/
 __pycache__/
 /Memories-AI/
+/Adaptive-RAG/.env
+/Adaptive-RAG/src/models/boeing_embeddings.py
+/Adaptive-RAG/src/models/boeing_chat_model.py
